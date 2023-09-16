@@ -29,6 +29,10 @@ Para testar código SQL online, poderá usar o site W3SCHOOLS
 - SQL Developer Data Modeler
 
 [Disponíveis aqui](https://docs.oracle.com/en/database/oracle/sql-developer/)
+
+- MySQL workbench - Muito bom para modelagem de dados.
+
+[Disponível aqui](https://www.mysql.com/products/workbench)
   
 
 
