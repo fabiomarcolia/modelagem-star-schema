@@ -2,7 +2,7 @@
 
 O Modelo tem as seguintes tabelas:
 
-- Dim_clientes
+- [Dim_clientes](./Dim_Clientes.SQL)
 - Dim_Datas
 - Dim_Empregados
 - Dim_Lojas
@@ -11,6 +11,9 @@ O Modelo tem as seguintes tabelas:
 - Dim_Precos
 - Dim_Promocoes
 - Fato_vendas
+
+  ## Diagrama
+  ![App Screenshot](./Diagrama.jpg)
 
 ### Dica: Criar primeiro a Fato 
 
