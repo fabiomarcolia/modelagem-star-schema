@@ -2,7 +2,7 @@
 
 O Modelo tem as seguintes tabelas:
 
-- [Dim_clientes](./Dim_Clientes.SQL)
+- [Dim_clientes](./scripts/Dim_Clientes.SQL)
 - Dim_Datas
 - Dim_Empregados
 - Dim_Lojas
