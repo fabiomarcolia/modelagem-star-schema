@@ -2,7 +2,7 @@ USE [OZZY_ESPM]
 GO
 
 /****** 
-Achei melhor colocar a iCod_Loja e cUF_Loja na tabela para ajudar na regionalização
+Achei melhor colocar a iCod_Loja e cUF_Loja na tabela para ajudar na regionalizaÃ§Ã£o
 iCod_Periodo eu mudei para intervalos de  horarios, como entre 08:00 e 11:00, 11:01 e 14:00 e assim por diante, para ser possivel definir quais horarios de maior movimento.
 iCod_Empregado empregado que efetuou a venda, caso de atendimento mesa ou balcao campo cAtendimento
 dData  a data da venda, imes e iDia da semana sendo domindo = 1, nao restinjo somente a final de semana 
