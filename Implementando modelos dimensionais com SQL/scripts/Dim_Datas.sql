@@ -6,7 +6,7 @@ Dim_Datas com mais possibilidase de analise
 
 iData	dData		iDia	iMes	iAno	iDu		iDuDecorridosAno	iDuRestanteAno	iDuDecorridosMes	iDuRestanteMes	iDuMes	iUltimoDuMes	iDuAnterior	iAnoMesAnterior	iSemana	iDiaSemana	vDiaSemana
 180706	2018-07-06	6		7		2018	1		129					121				5					17				22		0				180705		201806			27		6			Sexta-feira
-180707	2018-07-07	7		7		2018	0		129					121				5					17				22		0				180706		201806			27		7			Sábado
+180707	2018-07-07	7		7		2018	0		129					121				5					17				22		0				180706		201806			27		7			SÃ¡bado
 180708	2018-07-08	8		7		2018	0		129					121				5					17				22		0				180706		201806			28		1			Domingo
  ******/
 SET ANSI_NULLS ON
